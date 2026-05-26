@@ -52,7 +52,7 @@ while i < qtd:
     paises.append(pais)
     regioes.append(regiao)
     cidades.append(cidade)
-
+ 
     areas.append(area)
     intensidades.append(intensidade)
     ocorrencias.append(ocorrencia)
