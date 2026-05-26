@@ -26,7 +26,7 @@ while i < qtd:
     tipo = input("Tipo do evento: ")
     pais = input("País: ")
     regiao = input("Região: ")
-    cidade = input("Cidade: ")
+    cidade = input("Cidade: ") 
 
     area = float(input("Área afetada (km²): "))
 
