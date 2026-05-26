@@ -147,7 +147,7 @@ print("Eventos acima da média:", acima_media)
 print("Densidade média:",
       round(media_densidade, 2),
       "ocorrências/km²")
-
+ 
 print("\n---------- EVENTO MAIS CRITICO ----------")
 
 print("Tipo:", tipos[indice_critico])
