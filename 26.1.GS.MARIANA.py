@@ -27,6 +27,7 @@ while i < qtd:
     pais = input("País: ")
     regiao = input("Região: ")
     cidade = input("Cidade: ") 
+    
 
     area = float(input("Área afetada (km²): "))
 
