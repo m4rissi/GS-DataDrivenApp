@@ -30,7 +30,7 @@ while i < qtd:
 
     area = float(input("Área afetada (km²): "))
 
-    while area <= 0:
+    while area <= 0: 
         print("Área inválida!")
         area = float(input("Digite novamente: "))
 
