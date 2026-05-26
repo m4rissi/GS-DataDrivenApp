@@ -87,7 +87,7 @@ maior_area = max(areas)
 indice_area = areas.index(maior_area)
 
 # maior ocorrencia
-
+ 
 maior_oc = max(ocorrencias)
 indice_oc = ocorrencias.index(maior_oc)
 
