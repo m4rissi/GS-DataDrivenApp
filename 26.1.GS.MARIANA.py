@@ -9,6 +9,7 @@ paises = []
 regioes = []
 cidades = [] 
 
+
 areas = [] 
 intensidades = []
 ocorrencias = [] 
